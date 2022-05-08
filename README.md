@@ -1,5 +1,5 @@
 # boobool
-boobool is Brainless
+boobool is brainless
 
-so we will update boobool's Activity.
+so we will logging boobool's Activity
 and we will update the log.
